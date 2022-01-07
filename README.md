@@ -1,13 +1,21 @@
-  # Merhaba! Ben [Kaan](https://discord.gg/XBJJTEjDzj) 
+  
+  <h1 align="center">Hi 👋, I'm kaann</h1>
+  
+  
+  - 🔭 I’m currently working on **???Bot**
+
+  - 💬 Ask me about **nodeJS, Discord.JS**
+  
+  
   <a href="https://www.youtube.com/channel/UCdwVT8KjsAW3EaypRsP4fYw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Youtube Kanalıma Abone Ol" src="https://img.shields.io/youtube/channel/subscribers/UCdwVT8KjsAW3EaypRsP4fYw?color=%23E05D44&label=ABONEOL&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
+    <img alt="youtube subscribers" title="Subscribe My YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCdwVT8KjsAW3EaypRsP4fYw?color=%23E05D44&label=ABONEOL&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
     <a href="https://www.youtube.com/channel/UCdwVT8KjsAW3EaypRsP4fYw">
-   <img alt="youtube views" title="YouTube İzlenme Sayım" src="https://img.shields.io/youtube/channel/views/UCdwVT8KjsAW3EaypRsP4fYw?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
+   <img alt="youtube views" title="My YouTube Views" src="https://img.shields.io/youtube/channel/views/UCdwVT8KjsAW3EaypRsP4fYw?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/Chrome85">
-    <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/codekaann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=TakipEt"/></a>
+    <img alt="followers" title="Follow My Github Profile" src="https://img.shields.io/github/followers/codekaann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=TakipEt"/></a>
 </p>
 
-# Diğer Bağlantılar
+# Links
 
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdwVT8KjsAW3EaypRsP4fYw)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XBJJTEjDzj)
