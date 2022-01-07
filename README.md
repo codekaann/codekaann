@@ -10,11 +10,11 @@
 
 # About
   <a href="https://www.youtube.com/channel/UCdwVT8KjsAW3EaypRsP4fYw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe My YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCdwVT8KjsAW3EaypRsP4fYw?color=%23E05D44&label=ABONEOL&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
+    <img alt="youtube subscribers" title="Subscribe My YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCdwVT8KjsAW3EaypRsP4fYw?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
     <a href="https://www.youtube.com/channel/UCdwVT8KjsAW3EaypRsP4fYw">
    <img alt="youtube views" title="My YouTube Views" src="https://img.shields.io/youtube/channel/views/UCdwVT8KjsAW3EaypRsP4fYw?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/Chrome85">
-    <img alt="followers" title="Follow My Github Profile" src="https://img.shields.io/github/followers/codekaann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=TakipEt"/></a>
+  <a href="https://github.com/codekaann">
+    <img alt="followers" title="Follow My Github Profile" src="https://img.shields.io/github/followers/codekaann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=FOLLOW"/></a>
 </p>
 
 # Links
