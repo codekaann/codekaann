@@ -1,16 +1,15 @@
-### Hi there 👋
+  # Merhaba! Ben [Kaan](https://discord.gg/XBJJTEjDzj) 
+  <a href="https://www.youtube.com/channel/UCdwVT8KjsAW3EaypRsP4fYw?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Youtube Kanalıma Abone Ol" src="https://img.shields.io/youtube/channel/subscribers/UCdwVT8KjsAW3EaypRsP4fYw?color=%23E05D44&label=ABONEOL&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
+    <a href="https://www.youtube.com/channel/UCdwVT8KjsAW3EaypRsP4fYw">
+   <img alt="youtube views" title="YouTube İzlenme Sayım" src="https://img.shields.io/youtube/channel/views/UCdwVT8KjsAW3EaypRsP4fYw?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/Chrome85">
+    <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/codekaann?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=TakipEt"/></a>
+</p>
 
-<!--
-**codekaann/codekaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Diğer Bağlantılar
 
-Here are some ideas to get you started:
+[![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdwVT8KjsAW3EaypRsP4fYw%C3%A7)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XBJJTEjDzj)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
