@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm kaann</h1>
   
   
-  - 🔭 I’m currently working on **???Bot**
+  - 🔭 I’m currently working on **Viara Bot**
 
   - 💬 Ask me about **nodeJS, Discord.JS**
   
