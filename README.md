@@ -1,5 +1,5 @@
   
-  <h1 align="center">Hi 👋, I'm nightlunar 🌙</h1>
+  <h1 align="center">Hi 👋, I'm relinex 🌙</h1>
   
   
   - 🔭 I’m currently working on **Viara Bot**
@@ -20,7 +20,7 @@
 # Links
 
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdwVT8KjsAW3EaypRsP4fYw)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XBJJTEjDzj)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lenoscraft)
 
 # Stats
 
